@@ -10,9 +10,9 @@ ciberseguridad y reparación de hardware a nivel componente.
 - 🔧 Diagnóstico y microsoldadura de placas, celulares y electronica en general.
 
 ## Stack
-**Lenguajes:** C++ · Python · SQL · TypeScript · HTML/CSS
-**Web y datos:** Next.js · Supabase (PostgreSQL) · Vercel · WordPress
-**Otros:** Google Apps Script · Electrónica embebida · Hardware
+- **Lenguajes:** C++ · Python · SQL · TypeScript · HTML/CSS
+- **Web y datos:** Next.js · Supabase (PostgreSQL) · Vercel · WordPress
+- **Otros:** Google Apps Script · Electrónica embebida · Hardware
 
 ## Proyectos
 Mis proyectos de producción están en repos privados porque contienen
