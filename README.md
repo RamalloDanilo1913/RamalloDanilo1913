@@ -7,7 +7,7 @@ ciberseguridad y reparación de hardware a nivel componente.
 - 🌐 Desarrollo y mantengo sistemas web para una organización real de 180 usuarios
   (portal de socios, coordinación de viajes, tienda online).
 - 🔐 Diplomatura en Ciberseguridad (Instituto Da Vinci)
-- 🔧 Diagnóstico y microsoldadura de placas, celulares y electronica en general.
+- 🔧 Diagnóstico y microsoldadura de placas, celulares y electrónica en general.
 
 ## Stack
 - **Lenguajes:** C++ · Python · SQL · TypeScript · HTML/CSS
