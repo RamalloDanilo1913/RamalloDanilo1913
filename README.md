@@ -23,7 +23,7 @@ datos de usuarios. Acá van las versiones demo y casos de estudio 👇
 | Tienda online | Ventas 24hs, comprobantes en un solo lugar con acceso a todos los admins | Next.js, Supabase, Resend | [Sitio](https://tienda.tallerescapfed.com.ar) · [Código](https://github.com/RamalloDanilo1913/tienda-demo) |
 | Portal de socios | Gestión de socios con auth y emails | Next.js, Supabase, Resend | [Sitio](https://socios.tallerescapfed.com.ar) · [Código](https://github.com/RamalloDanilo1913/portal-socios-demo) |
 | App de viajes | Coordinación de viajes y reservas | Next.js, Supabase | [Sitio](https://www.tallerescapfed.com.ar/viajes) · [Código](https://github.com/RamalloDanilo1913/viajes-demo) |
-| Presencia Digital | Landing que convierte visitas de negocios locales en consultas por WhatsApp | Next.js, Tailwind, Framer Motion | [Sitio](https://presencia-digital-theta.vercel.app/) · [Código](https://github.com/RamalloDanilo1913/PresenciaDigital) |
+| Presencia Digital | Landing que convierte visitas de negocios locales en consultas por WhatsApp | Next.js, Tailwind, Framer Motion | [Sitio](https://presencia-digital-theta.vercel.app/) · [Código](https://github.com/RamalloDanilo1913/presencia-digital) |
 
 ## Contacto
 💼 [LinkedIn](https://www.linkedin.com/in/danilo-ramallo-9877a6289)
