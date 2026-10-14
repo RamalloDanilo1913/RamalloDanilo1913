@@ -26,4 +26,4 @@ datos de usuarios. Acá van las versiones demo y casos de estudio 👇
 | Presencia Digital | Landing que convierte visitas de negocios locales en consultas por WhatsApp | Next.js, Tailwind, Framer Motion | [Sitio](https://presencia-digital-theta.vercel.app/) · [Código](https://github.com/RamalloDanilo1913/presencia-digital) |
 
 ## Contacto
-💼 [LinkedIn](https://www.linkedin.com/in/danilo-ramallo-9877a6289)
+💼 [LinkedIn](https://www.linkedin.com/in/daniloramallo)
